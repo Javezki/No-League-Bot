@@ -1,2 +1,4 @@
 src/resources/*
 target/*
+*.class
+target/classes/com/github/javezki/App.class
